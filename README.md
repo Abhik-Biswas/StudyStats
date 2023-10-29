@@ -6,7 +6,7 @@ Repository containing the code for a web application, designed to be a one-stop 
 This is a Streamlit application for data analysis that allows you to perform various data analysis tasks on a dataset. You can upload a dataset in CSV format and explore its numerical and categorical columns, visualize data distributions, and perform hypothesis testing on numerical columns.
 
 ## Table of Contents
-1. [Installation](#installation)
+1. [Installation of Required Dependencies](#installation)
 2. [Usage](#usage)
 3. [Features](#features)
 4. [Documentation](#documentation)
@@ -93,7 +93,3 @@ Replace `your_app_name.py` with the name of the Python script containing the cod
 ## Contributing <a name="contributing"></a>
 
 If you'd like to contribute to this Streamlit data analysis app, please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License <a name="license"></a>
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
