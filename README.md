@@ -18,8 +18,7 @@ This is a Streamlit application for data analysis that allows you to perform var
     - [Multivariate Analysis](#multivariate-analysis)
     - [Categorical Data Analysis](#categorical-data-analysis)
     - [Hypothesis Testing](#hypothesis-testing)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
 
 ## Installation <a name="installation"></a>
 
@@ -89,7 +88,3 @@ Replace `your_app_name.py` with the name of the Python script containing the cod
 11. The app will display visualizations of the test results, including critical regions and test statistics.
 
 12. You can interpret the results and decide whether to accept or reject the null hypothesis based on the p-value and significance level.
-
-## Contributing <a name="contributing"></a>
-
-If you'd like to contribute to this Streamlit data analysis app, please feel free to fork the repository, make your changes, and submit a pull request.
